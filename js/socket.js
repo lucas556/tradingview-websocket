@@ -9,7 +9,7 @@ function _classCallCheck(instance, Constructor) {
 
 var socket = function () {
   function socket() {
-    var url = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 'wss://api.fcoin.com/v2/ws';
+    var url = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 'wss://api.huobi.br.com/ws';
     var options = arguments[1];
 
     _classCallCheck(this, socket);
